@@ -22,8 +22,9 @@
     </Hosts>
 
     <DefaultSettings>
-        <SourceLocation DefaultValue="file:///C:/Users/andre/AIexcelladdin/src/taskpane/taskpane.html"/>
+               <SourceLocation DefaultValue="https://Andrewcr1988.github.io/RKSexceladdin/src/taskpane/taskpane.html"/>
     </DefaultSettings>
+
 
 
 </OfficeApp>
